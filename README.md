@@ -1,12 +1,5 @@
 "# TensorFlowDailySteps" 
-# Day 1: Getting Started with Google Colab and TensorFlow
-
-## Learning Objectives
-By the end of this lesson, you will be able to:
-- Set up and navigate the Google Colab environment
-- Understand the advantages of using Colab for TensorFlow development
-- Install and verify TensorFlow in a Colab notebook
-- Write and execute a simple "Hello World" TensorFlow program
+# This is Tensoflow coding using Google Colab, a day to day steps approach to learning Tensor flow.
 
 ## Introduction to Google Colab
 
